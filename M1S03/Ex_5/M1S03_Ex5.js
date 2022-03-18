@@ -8,8 +8,7 @@ function myFunction()
 var sobrenome=prompt("Digite seu SOBRENOME: ");
 var nome=prompt("Digite seu NOME: ") 
 
-if (sobrenome!=null)
-if (nome!=null)
+if (nome!=false, sobrenome!=false)
 
 {
   window.alert("Olá, " + nome + " " + sobrenome + " !");
