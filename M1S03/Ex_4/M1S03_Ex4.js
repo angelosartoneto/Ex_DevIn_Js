@@ -1,5 +1,7 @@
-//Faça com que o navegador do usuário pergunte o nome dele(a). 
-//Utilizando o método alert, exiba o nome inserido pelo usuário.
+//Pergunte ao usuário: nome (prompt), idade (prompt) e se gosta de praticar algum esporte (confirm). 
+//Crie 3 variáveis para guardar as respostas do usuário: uma deve receber um valor textual (string), 
+//outra deve receber um valor numérico (number), e outra um valor de verdadeiro ou falso (boolean). 
+//Faça com que esses 3 valores sejam exibidos no console do navegador.
 
 function myFunction()
 {
