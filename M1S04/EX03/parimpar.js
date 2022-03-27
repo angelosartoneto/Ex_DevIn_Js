@@ -7,6 +7,6 @@ function myFunction()
 
 let numero = prompt("Digite um numero: ")
 
-let Num = numero % 2 == 0 ? 'Par' : 'Impar'
+let Num = numero % 2 == 0 ? 'O número é Par' : 'O número é Ímpar'
 window.alert(Num)
 }
